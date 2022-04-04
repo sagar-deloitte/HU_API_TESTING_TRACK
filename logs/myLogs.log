@@ -1,0 +1,92 @@
+[ERROR] 2022-04-04 10:43:52.177 [main] UsersTest - This is an error
+[INFO ] 2022-04-04 10:59:24.428 [main] UsersTest - User logged-in successfully
+[ERROR] 2022-04-04 10:59:26.176 [main] UsersTest - User already exists
+[ERROR] 2022-04-04 10:59:27.719 [main] UsersTest - User does not exists
+[ERROR] 2022-04-04 10:59:29.442 [main] UsersTest - Wrong format of request body
+[INFO ] 2022-04-04 11:01:37.753 [main] UsersTest - User logged-in successfully
+[ERROR] 2022-04-04 11:01:39.531 [main] UsersTest - User already exists
+[ERROR] 2022-04-04 11:01:41.334 [main] UsersTest - User does not exists
+[ERROR] 2022-04-04 11:01:43.075 [main] UsersTest - Wrong format of request body
+[INFO ] 2022-04-04 11:14:26.423 [main] UsersTest - User logged-in successfully
+[ERROR] 2022-04-04 11:14:28.230 [main] UsersTest - User already exists
+[ERROR] 2022-04-04 11:14:30.052 [main] UsersTest - User does not exists
+[ERROR] 2022-04-04 11:14:31.793 [main] UsersTest - Wrong format of request body
+[INFO ] 2022-04-04 11:16:29.924 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:31.909 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:33.880 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:36.004 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:37.951 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:39.947 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:42.152 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:44.197 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:46.227 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:48.293 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:50.143 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:52.065 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:54.027 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:56.075 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:16:58.126 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:17:00.155 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:17:02.141 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:17:04.401 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:17:06.240 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:17:08.260 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:17:10.146 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 11:17:14.097 [main] UsersTest - User logged-in successfully
+[ERROR] 2022-04-04 11:17:15.939 [main] UsersTest - User already exists
+[ERROR] 2022-04-04 11:17:17.790 [main] UsersTest - User does not exists
+[ERROR] 2022-04-04 11:17:19.422 [main] UsersTest - Wrong format of request body
+[INFO ] 2022-04-04 12:23:56.323 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:23:58.186 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:00.203 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:02.173 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:04.001 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:05.938 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:07.996 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:09.919 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:12.296 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:14.256 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:16.192 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:18.129 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:19.984 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:21.913 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:23.977 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:26.221 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:28.065 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:30.003 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:31.954 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:33.902 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:24:35.839 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 12:53:59.360 [main] TasksTest - Top 2 data printed successfully
+[INFO ] 2022-04-04 12:56:13.775 [main] TasksTest - Top 10 data printed successfully
+[INFO ] 2022-04-04 12:56:18.865 [main] TasksTest - Top 2 data printed successfully
+[INFO ] 2022-04-04 12:56:25.006 [main] TasksTest - Top 5 data printed successfully
+[INFO ] 2022-04-04 13:02:06.170 [main] TasksTest - Top 2 data printed successfully
+[INFO ] 2022-04-04 13:02:11.734 [main] TasksTest - Top 5 data printed successfully
+[INFO ] 2022-04-04 13:02:16.960 [main] TasksTest - Top 10 data printed successfully
+[INFO ] 2022-04-04 13:06:08.728 [main] TasksTest - Top 2 data printed successfully
+[INFO ] 2022-04-04 13:06:14.010 [main] TasksTest - Top 5 data printed successfully
+[INFO ] 2022-04-04 13:06:18.960 [main] TasksTest - Top 10 data printed successfully
+[INFO ] 2022-04-04 13:06:32.438 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:08:00.206 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:25.048 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:27.381 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:29.807 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:32.228 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:34.715 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:37.181 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:39.843 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:42.449 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:44.950 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:47.482 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:49.978 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:52.433 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:55.202 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:09:57.500 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:10:00.124 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:10:02.475 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:10:04.915 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:10:07.266 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:10:09.732 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:10:12.186 [main] TasksTest - Task added successfully
+[INFO ] 2022-04-04 13:10:14.451 [main] TasksTest - Task added successfully
